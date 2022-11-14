@@ -1,1 +1,1 @@
-# freecodecamp_psql_project_1
+# freecodecamp_Relational_Database_Freecodecamp
